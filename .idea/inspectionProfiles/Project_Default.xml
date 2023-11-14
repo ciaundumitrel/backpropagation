@@ -1,0 +1,85 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myCustomPropertiesEnabled" value="true" />
+      <option name="myIgnoreVendorSpecificProperties" value="false" />
+      <option name="myCustomPropertiesList">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="spellcheck" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="6">
+            <item index="0" class="java.lang.String" itemvalue="count" />
+            <item index="1" class="java.lang.String" itemvalue="pk" />
+            <item index="2" class="java.lang.String" itemvalue="note-pk" />
+            <item index="3" class="java.lang.String" itemvalue="field_name" />
+            <item index="4" class="java.lang.String" itemvalue="model" />
+            <item index="5" class="java.lang.String" itemvalue="preview-url" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="div" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="21">
+            <item index="0" class="java.lang.String" itemvalue="django-autocomplete-light" />
+            <item index="1" class="java.lang.String" itemvalue="django-crispy-forms" />
+            <item index="2" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="3" class="java.lang.String" itemvalue="pyqrcode" />
+            <item index="4" class="java.lang.String" itemvalue="reportlab" />
+            <item index="5" class="java.lang.String" itemvalue="django-python3-ldap" />
+            <item index="6" class="java.lang.String" itemvalue="ldap3" />
+            <item index="7" class="java.lang.String" itemvalue="django-tables2" />
+            <item index="8" class="java.lang.String" itemvalue="django" />
+            <item index="9" class="java.lang.String" itemvalue="pymysql" />
+            <item index="10" class="java.lang.String" itemvalue="django-guardian" />
+            <item index="11" class="java.lang.String" itemvalue="github3.py" />
+            <item index="12" class="java.lang.String" itemvalue="django-braces" />
+            <item index="13" class="java.lang.String" itemvalue="lxml" />
+            <item index="14" class="java.lang.String" itemvalue="PyPDF2" />
+            <item index="15" class="java.lang.String" itemvalue="pytz" />
+            <item index="16" class="java.lang.String" itemvalue="Pillow" />
+            <item index="17" class="java.lang.String" itemvalue="PyInstaller" />
+            <item index="18" class="java.lang.String" itemvalue="ipx-elementary-particles" />
+            <item index="19" class="java.lang.String" itemvalue="PyQt5" />
+            <item index="20" class="java.lang.String" itemvalue="requests" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="list.get" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
